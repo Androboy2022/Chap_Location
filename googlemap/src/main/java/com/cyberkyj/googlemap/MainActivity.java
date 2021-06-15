@@ -28,7 +28,8 @@ import com.google.android.gms.maps.model.MarkerOptions;
 
 public class MainActivity extends AppCompatActivity {
 
-    //Location Service(2021-06-15)
+    //Location Service(2021-06-14)
+
 
     SupportMapFragment mapFragment;
     GoogleMap map;
