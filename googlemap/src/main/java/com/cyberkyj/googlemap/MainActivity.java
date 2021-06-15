@@ -28,6 +28,8 @@ import com.google.android.gms.maps.model.MarkerOptions;
 
 public class MainActivity extends AppCompatActivity {
 
+    //Location Service(2021-06-15)
+
     SupportMapFragment mapFragment;
     GoogleMap map;
     double latitude;
