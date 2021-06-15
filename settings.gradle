@@ -1,0 +1,3 @@
+include ':googlemap'
+include ':app'
+rootProject.name = "Chap_Location"
